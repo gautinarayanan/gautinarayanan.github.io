@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About This Site
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome! This website is a personal tracker where I log my weekly goals, daily activities, and progress. It’s designed to help me stay focused on my career goals and skill-building activities.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Sections:**
+- [Weekly Goals](./goals): Lists my specific goals for the week.
+- [Daily Logs](./logs): Daily records of wake-up time, weight, tasks, gym time, and more.
+- [Weekly Report](./report): A summary of my progress, including charts.
+- [Timetable](./timetable): A structured timetable to guide daily tasks and priorities.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Thank you for visiting, and feel free to follow along as I work towards my career goals!

@@ -3,13 +3,10 @@ layout: page
 title: "Daily Logs"
 ---
 
-### Log Your Day
+# Daily Activity Logs
 
-**Date**:  
-**Wake-Up Time**:  
-**Weight**:  
-**Tasks Completed**:  
-**Gym Time**:  
-**Night Sleep**:  
+Please log your daily activities here, including wake-up time, weight, completed tasks, gym time, and sleep duration.
 
-Repeat this format for each day to maintain logs.
+<iframe src="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+[Go back to Home](./index)
